@@ -1,0 +1,3 @@
+//include ':BankTransLib'
+include ':app'
+rootProject.name = "ISO8583App"
